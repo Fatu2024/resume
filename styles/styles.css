@@ -1,0 +1,30 @@
+li {
+    list-style: none;
+}
+
+.container {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: lavender;
+}
+.box1 {
+    width: 50%;
+    float: left;
+    
+}
+.box2 {
+    width: 50%;
+    float: right;
+}
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.image {
+    height: 300px;
+    width: 200px;
+    margin: 0%;
+}
